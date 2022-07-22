@@ -1,4 +1,4 @@
-﻿## Wordpress - Extensões que faltavam para o meu site funcionar adequadamente.
+## Wordpress - Extensões que faltavam para o meu site funcionar adequadamente.
 
 Essa imagem não é nada mais do que a adição de alguns **pacotes** a imagem original.
 
