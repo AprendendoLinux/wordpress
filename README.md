@@ -12,6 +12,6 @@ Essa imagem não é nada mais do que a adição de alguns **pacotes** a imagem o
     		--hostname='wordpress' \
     		-p 80:80 \
     		-v wordpress:/var/www/html \
-    --restart=always aprendendolinux/wordpress:lates
+    --restart=always aprendendolinux/wordpress:latest
 
 Use também o [docker-compose.yml](https://github.com/AprendendoLinux/wordpress/blob/master/docker-compose.yml).
