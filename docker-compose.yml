@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  wordpress:
+    image: aprendendolinux/wordpress
+    restart: always
+    container_name: wordpress
+    volumes:
+      - wordpress:/var/www/html
+    ports:
+      - "80:80"
+volumes:
+  wordpress:
